@@ -3,5 +3,5 @@
 
 ![Image](https://github.com/prakashricha/Global-Warming/blob/master/Graphsandcharts/Earthquakeandtsunamis.PNG)
 
-Rise In Sea Level
-![image](https://github.com/prakashricha/Global-Warming/blob/master/Graphsandcharts/sea_level_bar.PNG)
+
+![image]Rise In Sea Level(https://github.com/prakashricha/Global-Warming/blob/master/Graphsandcharts/sea_level_bar.PNG)
