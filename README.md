@@ -2,3 +2,5 @@
 
 
 ![Image](https://github.com/prakashricha/Global-Warming/blob/master/Graphsandcharts/Earthquakeandtsunamis.PNG)
+
+![image]()
