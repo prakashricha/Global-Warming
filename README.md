@@ -7,3 +7,4 @@
 ![image](https://github.com/prakashricha/Global-Warming/blob/master/Graphsandcharts/sea_level_bar.PNG)
 
 ![image](https://github.com/prakashricha/Global-Warming/blob/master/Graphsandcharts/MLhurricanevsTemp.PNG)
+![image](https://github.com/prakashricha/Global-Warming/blob/master/Graphsandcharts/TenYearComparision.PNG)
